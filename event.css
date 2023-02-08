@@ -1,0 +1,180 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("k4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.event {
+    display: inline-block;
+    border: 1px solid black;
+    color: white;
+    width: 430px;
+    height: 50vh;
+    margin-left: 3%;
+    margin-top: 5%;
+    padding: 2%;
+    background-color: rgb(7, 6, 6);
+    opacity: 0.8;
+}
+
+.months {
+    border: 1px solid rgb(17, 17, 17);
+    width: 800.9px;
+    height: 100vh;
+    margin-left: 40.5%;
+    margin-top: -90%;
+    display: inline-block;
+    padding-top: 70%;
+    background-color: black;
+    opacity: 0.8;
+}
+
+
+/*
+.con1 {
+    display: inline-block;
+    border: 1px solid black;
+    background-color: black;
+    width: 150px;
+    height: 1vh;
+    margin-top: -90%;
+    margin-left: 4.5%;
+    padding-top: 19%;
+    margin-bottom: 20%;
+}
+
+.con1 h1 {
+    margin-top: -100%;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.con1 h3 {
+    text-align: center;
+    color: white;
+}
+
+.inm {
+    border: 1px solid white;
+    height: -91vh;
+    width: 700px;
+    display: inline-block;
+    margin-left: 32.2%;
+    padding: relative;
+    margin-top: 40;
+}
+
+.np {
+    padding-top: 90%;
+    margin-top: 60%;
+}
+
+.inm {
+    display: inline-block;
+    margin-top: -90%;
+    padding-top: 37%;
+}
+
+.headi .np {
+    padding-top: 30px;
+}*/
+
+.column1 {
+    float: left;
+    padding: 10px;
+    height: 210px;
+    margin-top: -16%;
+    display: inline-block;
+    background-color: black;
+}
+
+.left {
+    width: 22.3%;
+    border: 1px solid rgb(37, 37, 37);
+    display: inline-block;
+    margin-left: 3%;
+    background-color: red;
+}
+
+.right {
+    margin-left: 27.9%;
+    width: 68%;
+    border: 1px solid rgb(42, 43, 42);
+    margin-top: -28.9%;
+    background-color: white;
+    display: inline-block;
+}
+
+.months :after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column2 {
+    float: left;
+    padding: 10px;
+    height: 210px;
+    margin-top: 70%;
+    display: inline-block;
+}
+
+.left2 {
+    width: 22.3%;
+    border: 1px solid rgb(37, 37, 37);
+    display: fixed;
+    margin-left: 3%;
+    background-color: red;
+    margin-top: 1%;
+}
+
+.right2 {
+    margin-left: 27.9%;
+    width: 68%;
+    border: 1px solid rgb(42, 43, 42);
+    margin-top: -28.9%;
+    background-color: white;
+}
+
+.c :after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column3 {
+    float: left;
+    padding: 10px;
+    height: 210px;
+    margin-top: 70%;
+    display: inline-block;
+}
+
+.left3 {
+    width: 22.3%;
+    border: 1px solid rgb(37, 37, 37);
+    display: fixed;
+    margin-left: 3%;
+    background-color: red;
+    margin-top: 1%;
+}
+
+.right3 {
+    margin-left: 27.9%;
+    width: 68%;
+    border: 1px solid rgb(42, 43, 42);
+    margin-top: -28.9%;
+    background-color: white;
+}
+
+.d :after {
+    content: "";
+    display: table;
+    clear: both;
+}
